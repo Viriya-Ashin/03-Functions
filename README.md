@@ -1,36 +1,23 @@
-# 📖 Write Function to Evaluate Equality of Two Values
+# HTML Document for Functions
 
-Work with a partner to implement the following user story:
+This HTML file is designed for exploring functions in JavaScript.
 
-* As a developer, I want to know when two values are equal to one another.
+Key Features:
+Character encoding set to UTF-8.
+Viewport meta tag for responsive design.
+Title set to "Functions" for document identification.
+Centered heading with emojis for visual appeal.
+External script linked for JavaScript functionality.
 
-## Acceptance Criteria
+# JavaScript Equality Check Function
 
-* It is done when I provide two values in function arguments and the function evaluates the values' equality.
-
-* It is done if, when the values are strictly equal, the message "They are equal in type and value" is logged.
-
-* It is done if, when the two values are equal but not strictly equal, the message "They are equal in value" is logged.
-
-* It is done if, when the values are not equal or strictly equal, the message "The values are not equal" is logged.
-
-## 📝 Notes
-
-Refer to the documentation:
-
-[MDN Web Docs on functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-
-## 💡 Hints
-
-How can we use parameters to give a name to the two values that we want to evaluate with the function?
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
+This JavaScript function compares two values for equality and logs the result.
+Purpose: Compares values for equality.
+Functionality:
+Strictly compares types and values.
+Uses loose comparison for values only.
+Outputs comparison results to the console.
 
 * What is hoisting?
 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function). Ref. W3Schools
-Use [Google](https://www.google.com) or another search engine to research this.
 
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
